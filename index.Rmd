@@ -1,0 +1,36 @@
+---
+title: "Laura Angélica Ramos"
+image: "Laura.jpg"
+links:
+  - label: '`r fontawesome::fa(name = "instagram", fill = "purple")` Instagram'
+    url: "https://www.instagram.com/dearangelyy/"
+  - label: '`r fontawesome::fa(name = "twitter", fill = "purple")` Twitter'
+    url: "https://x.com/_Angelica_hrt"
+  - label: '`r fontawesome::fa(name = "github", fill = "purple")` Github'
+    url: "https://github.com/angely0694/"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "purple")` Mail'
+    url: "mailto:laura.ramos@encit.unam.mx"
+ 
+output:
+  postcards::trestles
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### **Bio** 
+I am a 19-year-old student of Earth Sciences and Environmental Sciences at ENCiT, UNAM. Since childhood, I have felt drawn to the environment and to understanding how nature and society are intertwined. That early curiosity became the reason I chose this path, where science is also a way of caring for and giving meaning to the world.
+
+#### **Education**
+
+**Preparatory School** | @ [CCH Oriente_UNAM](https://www.cch-oriente.unam.mx) | 
+**University** | @[ENCiT_UNAM](https://www.encit.unam.mx)|
+
+#### **Experience**
+
+
+I am a fourth-semester student in the Earth Sciences program at the National School of Earth Sciences (ENCiT), UNAM, with a background in environmental sciences from an interdisciplinary perspective. To date, my academic experience has focused on understanding environmental systems as socio-ecosystems, integrating natural and social processes to analyze current environmental problems.
+
+I have developed a foundation in the study of social metabolism, paradigms of land management and conservation, and the interpretation of environmental dynamics at different scales. My training includes the critical analysis of scientific information, data analysis, academic writing, and the introductory use of computational tools for scientific analysis and communication.
+
